@@ -24,4 +24,4 @@ SOFTWARE.
 
 ## Tentang
 
-Aplikasi ini menggunakan framework Laravel versi 10.x dan PHP versi 8.1.25
+Aplikasi ini menggunakan framework Laravel versi 10.x dan PHP versi 8.2
